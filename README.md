@@ -21,6 +21,8 @@ For each ID in the test set, you must predict 1 if the tweet is describing a rea
 
 https://github.com/user-attachments/assets/9557c7ba-3b04-4f0a-b531-aec2c28572c1
 
+Using YData Profiling, I was able to quickly get a complete understanding of the dataset. The tool gave me a clear snapshot of important statistics, highlighted any data quality issues like missing values or duplicates, and provided visualizations that made it easier to see how the data was distributed.
+
 
 
 
