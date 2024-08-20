@@ -16,3 +16,11 @@ For each ID in the test set, you must predict 1 if the tweet is describing a rea
 #id,target
 (0,0)
 (2,0).....
+
+# Visualization Using YData Profiling
+
+https://github.com/user-attachments/assets/9557c7ba-3b04-4f0a-b531-aec2c28572c1
+
+
+
+
